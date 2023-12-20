@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Technique Alternance</string>
+    <string name="page_1">PAGE 1</string>
+    <string name="page_2">PAGE 2</string>
+    <string name="go_to_page_2">Go to page 2</string>
+    <string name="connection">Connection</string>
+    <string name="address">Address</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="port">Port</string>
+</resources>
