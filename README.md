@@ -1,5 +1,5 @@
 # Test Technique Alternance
-Test Technique proposé par une entreprise dans le carde de la recherche d'alternance.
+Test technique proposé par une entreprise dans le carde de la recherche d'alternance.
 
 ## Contexte
 Lors de ma recherche d'une alternance pour les deuxième et troisième années de BUT informatique, un sujet de test technique m'a été proposé par l'une des entreprises contactées.
